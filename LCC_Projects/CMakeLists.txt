@@ -1,0 +1,7 @@
+
+#add_subdirectory(Poisson_H1_GD_Mixeds)
+#add_subdirectory(PoissonTransientH1_GD)
+#add_subdirectory(LeyDeConservacion)
+add_subdirectory(Poisson_H1_ReconstLaplacian)
+add_subdirectory(Poisson_H1_ReconstLaplacian_New)
+
